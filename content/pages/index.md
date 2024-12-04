@@ -48,7 +48,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Change Language
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
