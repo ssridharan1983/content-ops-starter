@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: Tamil
         altText: ''
         url: >-
           https://drive.google.com/file/d/17dxDkArKYuvlkU8jbrfzzTi8Qd2B-rb7/view?usp=sharing_eil&ts=6750764a
