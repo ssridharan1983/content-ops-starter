@@ -118,10 +118,8 @@ sections:
         type: FeaturedItem
       - title: 'Available Beds : 0'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Government Primary Health Center![](/images/primary_health_center.jpg)
         image:
           url: /images/icon3.svg
           altText: Featured icon three
