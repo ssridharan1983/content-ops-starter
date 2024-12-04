@@ -32,15 +32,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
