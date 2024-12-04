@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Fengal Cyclone '
+      text: Cyclone Fengal expected to bring heavy rain to Tamil Nadu
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
