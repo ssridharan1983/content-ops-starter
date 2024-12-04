@@ -158,22 +158,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - posts: []
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
