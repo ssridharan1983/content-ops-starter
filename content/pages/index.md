@@ -169,8 +169,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - posts:
-      - content/pages/blog/case-study-2.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
