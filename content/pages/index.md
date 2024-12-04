@@ -63,7 +63,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 'Available : 70 Beds'
         subtitle: ''
         text: |
           Apollo Cradle & Children's Hospital Karapakkam, Chennai
