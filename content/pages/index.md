@@ -15,7 +15,8 @@ sections:
     actions:
       - label: English
         altText: ''
-        url: /
+        url: >-
+          https://www.downtoearth.org.in/climate-change/cyclone-fengal-depression-to-move-towards-tamil-nadu-coast-landfall-likely-between-chennai-and-puducherry-says-imd
         showIcon: false
         icon: arrowRight
         iconPosition: right
