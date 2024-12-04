@@ -150,7 +150,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Near by Hospitals
+      label: ''
       color: text-primary
       styles:
         self:
