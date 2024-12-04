@@ -23,6 +23,16 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/17dxDkArKYuvlkU8jbrfzzTi8Qd2B-rb7/view?usp=sharing_eil&ts=6750764a
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: See Tutorials
         altText: ''
         url: /
