@@ -7,7 +7,7 @@ sections:
       text: Cyclone Fengal expected to bring heavy rain to Tamil Nadu
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Press English to see the news in English. Press Tamil to see the news in
       Tamil.
