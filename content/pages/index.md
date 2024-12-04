@@ -64,7 +64,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           Apollo Cradle & Children's Hospital Karapakkam, Chennai
 
