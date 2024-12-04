@@ -33,7 +33,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/main-hero.svg
+      url: /images/favicon.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
