@@ -27,7 +27,7 @@ sections:
         label: Tamil
         altText: ''
         url: >-
-          https://drive.google.com/file/d/17dxDkArKYuvlkU8jbrfzzTi8Qd2B-rb7/view?usp=sharing_eil&ts=6750764a
+          https://www.thehindu.com/news/national/tamil-nadu/cyclone-fengal-live-tamil-nadu-puducherry-dec-2-2024/article68936927.ece
         showIcon: false
         icon: arrowRight
         iconPosition: right
